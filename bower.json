@@ -1,0 +1,24 @@
+{
+  "name": "demo",
+  "authors": [
+    "Aitor Piñeyro <itor95@gmail.com>"
+  ],
+  "description": "demo seminario 1",
+  "main": "ejemplo.js",
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "homepage": "index.html",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": ">3.0.1"
+  }
+}
